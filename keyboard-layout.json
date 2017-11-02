@@ -1,0 +1,385 @@
+[
+  {
+    "backcolor": "#363636",
+    "background": {
+      "name": "Carbon fibre 1",
+      "style": "background-image: url('/bg/carbonfibre/carbon_texture1879.png');"
+    },
+    "switchMount": "cherry"
+  },
+  [
+    {
+      "c": "#c13828",
+      "t": "#d0ccc0\n\n\n#96938e",
+      "fa": [
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    "\n\n\n`\n\n\n\n~\nesc",
+    {
+      "c": "#1a1a1a",
+      "t": "#d0ccc0\n\n\n#60605b",
+      "fa": [
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "!\n\n\nf1\n\n\n1",
+    "@\n\n\nf2\n\n\n2",
+    "#\n\n\nf3\n\n\n3",
+    "$\n\n\nf4\n\n\n4",
+    "%\n\n\nf5\n\n\n5",
+    "^\n\n\nf6\n\n\n6",
+    "&\n\n\nf7\n\n\n7",
+    "*\n\n\nf8\n\n\n8",
+    "(\n\n\nf9\n\n\n9",
+    ")\n\n\nf10\n\n\n0",
+    "_\n\n\nf11\n\n\n-",
+    "+\n\n\nf12\n\n\n=",
+    {
+      "c": "#c13828",
+      "t": "#d0ccc0\n#96938e\n\n#96938e",
+      "fa": [
+        0,
+        2,
+        0,
+        2
+      ],
+      "w": 2
+    },
+    "backspace\ndelete\n<i class='mss mss-Unicode-BackSpace-DeleteLeft-Big-2'></i>\n<i class='mss mss-Unicode-DeleteRight-Big-2'></i>"
+  ],
+  [
+    {
+      "c": "#1a1a1a",
+      "t": "#d0ccc0",
+      "w": 1.5
+    },
+    "tab\n\n<i class='kb kb-Tab-2'></i>",
+    {
+      "c": "#373535",
+      "t": "#ffffff\n\n\n\n\n\n\n\n\n\n#60605b",
+      "fa": [
+        5
+      ]
+    },
+    "Q\n\n\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Rewind-Start'></i>",
+    {
+      "t": "#d0ccc0\n\n\n\n\n\n\n\n\n\n#60605b"
+    },
+    "W\n\n\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Play-Pause'></i>",
+    "E\n\n\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-FastForward-End'></i>",
+    {
+      "t": "#d0ccc0"
+    },
+    "R",
+    "T",
+    "Y",
+    {
+      "t": "#d0ccc0\n\n\n\n\n\n\n\n\n\n#60605b",
+      "fa": [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "U\n\n\n\n\n\n\n\n\n\npage <i class='kb kb-Multimedia-Up'></i>",
+    {
+      "t": "#d0ccc0\n\n#60605b\n\n\n\n\n\n\n\n#5eb1e7",
+      "fa": [
+        5,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "I\n\n<i class='kb kb-Multimedia-Up'></i>\n\n\n\n\n\n\n\nhome",
+    {
+      "t": "#d0ccc0\n\n\n\n\n\n\n\n\n\n#60605b"
+    },
+    "O\n\n\n\n\n\n\n\n\n\npage <i class='kb kb-Multimedia-Down'></i>",
+    {
+      "t": "#d0ccc0"
+    },
+    "P",
+    {
+      "c": "#1a1a1a",
+      "fa": [
+        2,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "{\n\n\n\n\n\n[",
+    "}\n\n\n\n\n\n]",
+    {
+      "f": 3,
+      "w": 1.5
+    },
+    "|\n\\"
+  ],
+  [
+    {
+      "c": "#f67f00;",
+      "f": 3,
+      "w": 1.75
+    },
+    "control\n\n^",
+    {
+      "c": "#373535",
+      "t": "#ffffff",
+      "fa": [
+        5
+      ]
+    },
+    "A",
+    {
+      "t": "#ffffff\n\n\n\n\n\n\n\n\n\n#60605b"
+    },
+    "S\n\n\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Mute-2'></i>",
+    "D\n\n\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Volume-Down-2'></i>",
+    "F\n\n\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Volume-Up-2'></i>",
+    {
+      "t": "#ffffff"
+    },
+    "G",
+    {
+      "t": "#ffffff\n\n#60605b\n\n\n\n\n\n\n\n#5eb1e7",
+      "fa": [
+        5,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "H\n\nhome\n\n\n\n\n\n\n\n◀",
+    {
+      "t": "#ffffff\n\n#60605b\n\n\n\n\n\n\n\n#5eb1e7;",
+      "fa": [
+        5,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "J\n\n<i class='kb kb-Multimedia-Back'></i>\n\n\n\n\n\n\n\n▼",
+    {
+      "t": "#ffffff\n\n#60605b\n\n\n\n\n\n\n\n#5eb1e7"
+    },
+    "K\n\n<i class='kb kb-Multimedia-Down'></i>\n\n\n\n\n\n\n\n▲",
+    "L\n\n<i class='kb kb-Multimedia-Play'></i>\n\n\n\n\n\n\n\n▶",
+    {
+      "c": "#1a1a1a",
+      "t": "#ffffff\n\n\n#60605b",
+      "fa": [
+        0,
+        0,
+        2,
+        2
+      ]
+    },
+    ":\n\n\nins\n\n\n;",
+    "\"\n\n\ndel\n\n\n'",
+    {
+      "c": "#1db63a;",
+      "t": "#ffffff",
+      "fa": [
+        0,
+        0,
+        0,
+        7
+      ],
+      "w": 2.25
+    },
+    "\n\nreturn\n<i class='kb kb-Return-2'></i>"
+  ],
+  [
+    {
+      "c": "#1a1a1a",
+      "w": 2.25
+    },
+    "shift\n\n<i class='kb kb-Arrows-Up'></i>",
+    {
+      "c": "#373535",
+      "fa": [
+        5
+      ]
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    {
+      "t": "#ffffff\n\n\n\n\n\n\n\n\n\n#60605b",
+      "fa": [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "N\n\n\n\n\n\n\n\n\n\nend",
+    "M\n\n\n\n\n\n\n\n\n\ndefault",
+    {
+      "c": "#1a1a1a",
+      "t": "#ffffff\n\n\n\n\n\n\n\n\n\n#5eb1e7",
+      "fa": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "<\n\n\n\n\n\n,\n\n\n\nlayer 2",
+    {
+      "t": "#ffffff\n\n\n\n\n\n\n\n\n\n#c13828"
+    },
+    ">\n\n\n\n\n\n.\n\n\n\nlayer 3",
+    {
+      "t": "#ffffff\n\n\n\n\n\n\n\n\n\n#ac97d8"
+    },
+    "?\n\n\n\n\n\n/\n\n\n\nlayer 4",
+    {
+      "t": "#ffffff",
+      "f": 3,
+      "w": 2.75
+    },
+    "<i class='kb kb-Arrows-Up'></i>\n\nshift"
+  ],
+  [
+    {
+      "c": "#60605b",
+      "t": "#96938e",
+      "f": 3,
+      "w": 1.25
+    },
+    "fn",
+    {
+      "c": "#f67f00;",
+      "t": "#ffffff",
+      "fa": [
+        2,
+        2
+      ],
+      "w": 1.25
+    },
+    "\nalt\n\n<i class='mss mss-Unicode-Alternate-3'></i>\n\n\n\n\noption",
+    {
+      "fa": [
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "w": 1.25
+    },
+    "\n\n\n<i class='mss mss-Unicode-Command-3'></i>\n\n\n\n\ncommand",
+    {
+      "c": "#1a1a1a",
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "c": "#f67f00;",
+      "a": 4,
+      "fa": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "w2": 1.25
+    },
+    "\n<i class='mss mss-Unicode-Command-3'></i>\n\n\n\n\n\n\ncommand",
+    {
+      "x": 0.25,
+      "fa": [
+        2,
+        0,
+        0,
+        2
+      ],
+      "w": 1.25
+    },
+    "\n<i class='mss mss-Unicode-Alternate-3'></i>\n\nalt\n\n\n\n\noption",
+    {
+      "c": "#f8d615",
+      "t": "#373535",
+      "a": 5,
+      "f": 3,
+      "w": 1.25
+    },
+    "pn",
+    {
+      "c": "#f67f00",
+      "t": "#ffffff",
+      "a": 4,
+      "w": 1.25
+    },
+    "\n^\ncontrol"
+  ]
+]
