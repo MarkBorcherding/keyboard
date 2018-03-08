@@ -16,3 +16,4 @@
 * https://mehkee.com/collections/switches-and-parts
 * http://matias.ca/
 * https://www.massdrop.com/mechanical-keyboards
+* https://novelkeys.xyz
